@@ -18,11 +18,11 @@
 --><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>junit-unittest-archetype</artifactId>
+    <artifactId>calcproj</artifactId>
 
-    <groupId>org.testifyproject.archetypes</groupId>
+    <groupId>testproj</groupId>
     
-    <name>Example JUnit4 Unit Test</name>
+    <name>st02</name>
     <description>Creates a new quickstart project to unit test Java code with Testify, JUnit4, Mockito, and AssertJ.</description>
     <version>1.0.0</version>
     <url>https://github.com/testify-project/examples/tree/master/junit4/junit-unittest-archetype</url>
