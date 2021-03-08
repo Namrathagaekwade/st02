@@ -20,6 +20,6 @@ public class testcase {
 	
 	@Test
 	public void testSub() {
-		assertEquals(6, calculator.sub(9,3));
+		assertEquals(4, calculator.sub(9,5));
 	}
 }
