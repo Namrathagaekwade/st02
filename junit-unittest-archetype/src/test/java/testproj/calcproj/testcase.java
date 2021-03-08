@@ -17,4 +17,9 @@ public class testcase {
 	public void testadd() {
 		assertEquals(10,calculator.add(7, 3));
 	}
+	
+	@Test
+	public void testSub() {
+		assertEquals(6, calculator.sub(9,3));
+	}
 }
