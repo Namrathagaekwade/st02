@@ -15,6 +15,6 @@ public class testcase {
 	
 	@Test
 	public void testadd() {
-		assertEquals(8,calculator.add(5, 3));
+		assertEquals(10,calculator.add(7, 3));
 	}
 }
